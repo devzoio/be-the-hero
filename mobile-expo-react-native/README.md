@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Be The Hero" src=".github/be-the-hero.png" width="100%">
+  <img alt="Be The Hero" src=".github/be-the-hero.png">
 </p>
 
 ## 🚀 Tecnologias
