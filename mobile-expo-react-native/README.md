@@ -15,12 +15,14 @@
 
 ## 🚀 Tecnologias
 
-O front-end está sendo desenvolvido com as seguintes tecnologias:
+O app mobile está sendo desenvolvido com as seguintes tecnologias:
 
-- [React JS](https://pt-br.reactjs.org/)
-- [React Icons](https://github.com/react-icons/react-icons)
-- [React Router Dom](https://www.npmjs.com/package/react-router-dom)
+- [Expo](https://expo.io/)
+- [React Native](https://reactnative.dev/)
+- [Expo Constents](https://docs.expo.io/versions/latest/sdk/constants/)
+- [Expo Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
 - [Axios](https://www.npmjs.com/package/axios)
+- [Intl](https://www.npmjs.com/package/intl)
 
 ## :inbox_tray: Como rodar o projeto na máquina local
 
@@ -35,11 +37,11 @@ $ yarn start
 
 ### Acesse a aplicação
 
-Insira no seu navegador `localhost:3000` para abrir a aplicação.
+Baixe o `APP Expo` no seu smartphone e depois scanea o QR Code que irá exibir em seu navegador.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](<https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1>). Lembrando que você irá precisar ter uma conta no [Figma.](http://figma.com/)
+Você pode visualizar o layout do projeto através [desse link](<https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A95>). Lembrando que você irá precisar ter uma conta no [Figma.](http://figma.com/)
 
 ## :memo: Licença
 

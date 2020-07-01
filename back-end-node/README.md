@@ -15,7 +15,7 @@
 
 ## 🚀 Tecnologias
 
-O projeto está sendo desenvolvido com as seguintes tecnologias:
+O back-end está sendo desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/pt-br/)
@@ -28,7 +28,7 @@ O projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## :inbox_tray: Como rodar o projeto na máquina local
 
-É necessário ter o node instalado na máquina local.
+É necessário ter o node e o yarn instalados na máquina local.
 
 ### Após a instalação, rode o comando na pasta do projeto:
 
